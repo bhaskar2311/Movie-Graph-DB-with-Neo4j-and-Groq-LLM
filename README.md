@@ -1,4 +1,4 @@
-# 🎬 CineGraph Cypher AI
+# 🎬 CineGraph Cypher AI - Movie Graph DB with Neo4J and Groq LLM
 #### Graph-Based Movie Intelligence Using Neo4j + Groq LLaMA3
 This project integrates a graph database (Neo4j) with Groq’s LLaMA3.3-70B model to create a natural-language-powered movie knowledge engine. Using LangChain's GraphCypherQAChain, it allows users to query complex movie relationships — such as directors, genres, and IMDB ratings — using plain English.
 
